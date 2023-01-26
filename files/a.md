@@ -1,1 +1,3 @@
-This is a file named a.
+- This is a file named a.
+- HAOTEST GIT MERGE
+- ADD CHANGES
